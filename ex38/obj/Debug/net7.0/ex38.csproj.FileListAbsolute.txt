@@ -1,0 +1,15 @@
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. Homework5/ex38/obj/Debug/net7.0/ex38.csproj.AssemblyReference.cache
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. Homework5/ex38/obj/Debug/net7.0/ex38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. Homework5/ex38/obj/Debug/net7.0/ex38.AssemblyInfoInputs.cache
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. Homework5/ex38/obj/Debug/net7.0/ex38.AssemblyInfo.cs
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. Homework5/ex38/obj/Debug/net7.0/ex38.csproj.CoreCompileInputs.cache
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. Homework5/ex38/bin/Debug/net7.0/ex38
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. Homework5/ex38/bin/Debug/net7.0/ex38.deps.json
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. Homework5/ex38/bin/Debug/net7.0/ex38.runtimeconfig.json
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. Homework5/ex38/bin/Debug/net7.0/ex38.dll
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. Homework5/ex38/bin/Debug/net7.0/ex38.pdb
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. Homework5/ex38/obj/Debug/net7.0/ex38.dll
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. Homework5/ex38/obj/Debug/net7.0/refint/ex38.dll
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. Homework5/ex38/obj/Debug/net7.0/ex38.pdb
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. Homework5/ex38/obj/Debug/net7.0/ex38.genruntimeconfig.cache
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. Homework5/ex38/obj/Debug/net7.0/ref/ex38.dll
